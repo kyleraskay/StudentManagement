@@ -1,3 +1,5 @@
+
+
 package com.raskaytech;
 import java.util.Scanner;
 public class Main {
@@ -17,7 +19,7 @@ public class Main {
 
         }
         while(1 != 0) {
-            System.out.println("**************************************");
+            System.out.println("*************************************");
             System.out.println("**************************************");
             System.out.println("Manager");
             System.out.println("**************************************");
